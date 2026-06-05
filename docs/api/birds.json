@@ -1,0 +1,154 @@
+{
+  "regions": [
+    {
+      "id": "forest",
+      "name": "Forest Birds",
+      "description": "Birds commonly found in forests and wooded areas.",
+      "birds": [
+        {
+          "id": "woodpecker",
+          "name": "Great Spotted Woodpecker",
+          "latinName": "Dendrocopos major",
+          "size": "Medium",
+          "diet": "Insects, seeds and nuts",
+          "rarity": "Common",
+          "canBeSpotted": true,
+          "price": 12,
+          "tags": ["tree-climber", "drumming", "black-white-red"]
+        },
+        {
+          "id": "owl",
+          "name": "Tawny Owl",
+          "latinName": "Strix aluco",
+          "size": "Medium",
+          "diet": "Small mammals and birds",
+          "rarity": "Uncommon",
+          "canBeSpotted": true,
+          "price": 18,
+          "tags": ["nocturnal", "silent-flight", "predator"]
+        },
+        {
+          "id": "jay",
+          "name": "Eurasian Jay",
+          "latinName": "Garrulus glandarius",
+          "size": "Medium",
+          "diet": "Acorns, insects and eggs",
+          "rarity": "Common",
+          "canBeSpotted": true,
+          "price": 10,
+          "tags": ["colorful-wing", "forest", "loud-call"]
+        }
+      ]
+    },
+    {
+      "id": "wetland",
+      "name": "Wetland Birds",
+      "description": "Birds living near lakes, rivers, marshes and ponds.",
+      "birds": [
+        {
+          "id": "kingfisher",
+          "name": "Common Kingfisher",
+          "latinName": "Alcedo atthis",
+          "size": "Small",
+          "diet": "Fish and aquatic insects",
+          "rarity": "Rare",
+          "canBeSpotted": true,
+          "price": 25,
+          "tags": ["bright-blue", "fast-diver", "river"]
+        },
+        {
+          "id": "heron",
+          "name": "Grey Heron",
+          "latinName": "Ardea cinerea",
+          "size": "Large",
+          "diet": "Fish, frogs and small mammals",
+          "rarity": "Common",
+          "canBeSpotted": true,
+          "price": 16,
+          "tags": ["long-legs", "fishing", "wetland"]
+        },
+        {
+          "id": "reed-warbler",
+          "name": "Reed Warbler",
+          "latinName": "Acrocephalus scirpaceus",
+          "size": "Small",
+          "diet": "Insects",
+          "rarity": "Uncommon",
+          "canBeSpotted": false,
+          "price": 9,
+          "tags": ["reeds", "songbird", "hidden"]
+        }
+      ]
+    },
+    {
+      "id": "garden",
+      "name": "Garden Birds",
+      "description": "Birds often seen in gardens, parks and near houses.",
+      "birds": [
+        {
+          "id": "robin",
+          "name": "European Robin",
+          "latinName": "Erithacus rubecula",
+          "size": "Small",
+          "diet": "Insects, worms and berries",
+          "rarity": "Common",
+          "canBeSpotted": true,
+          "price": 8,
+          "tags": ["red-breast", "friendly", "songbird"]
+        },
+        {
+          "id": "blackbird",
+          "name": "Common Blackbird",
+          "latinName": "Turdus merula",
+          "size": "Medium",
+          "diet": "Worms, insects and fruit",
+          "rarity": "Common",
+          "canBeSpotted": true,
+          "price": 7,
+          "tags": ["black-feathers", "yellow-beak", "songbird"]
+        },
+        {
+          "id": "goldfinch",
+          "name": "European Goldfinch",
+          "latinName": "Carduelis carduelis",
+          "size": "Small",
+          "diet": "Seeds",
+          "rarity": "Uncommon",
+          "canBeSpotted": true,
+          "price": 11,
+          "tags": ["colorful", "seed-eater", "flock"]
+        }
+      ]
+    }
+  ],
+  "gear": [
+    {
+      "id": "binoculars",
+      "name": "Beginner Binoculars",
+      "type": "equipment",
+      "price": 45,
+      "stock": 6
+    },
+    {
+      "id": "field-guide",
+      "name": "Pocket Field Guide",
+      "type": "book",
+      "price": 19,
+      "stock": 12
+    },
+    {
+      "id": "notebook",
+      "name": "Birdwatching Notebook",
+      "type": "accessory",
+      "price": 6,
+      "stock": 20
+    },
+    {
+      "id": "bird-feed",
+      "name": "Premium Bird Feed",
+      "type": "food",
+      "price": 14,
+      "stock": 9
+    }
+  ]
+}
