@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Galactic Escape",
+    "genre": "Sci-Fi",
+    "rating": "PG-13",
+    "duration": 124,
+    "year": 2022,
+    "features": ["3D", "Subtitles"],
+    "description": "A pilot and a robot must escape a collapsing space station."
+  },
+  {
+    "id": 2,
+    "title": "The Haunted Reel",
+    "genre": "Horror",
+    "rating": "R",
+    "duration": 98,
+    "year": 2021,
+    "features": ["Subtitles"],
+    "description": "A lost film begins to affect everyone who watches it."
+  },
+  {
+    "id": 3,
+    "title": "Laugh Track Love",
+    "genre": "Comedy",
+    "rating": "PG",
+    "duration": 106,
+    "year": 2020,
+    "features": ["Family Friendly"],
+    "description": "Two rival comedians accidentally book the same wedding gig."
+  },
+  {
+    "id": 4,
+    "title": "Castle of Shadows",
+    "genre": "Fantasy",
+    "rating": "PG-13",
+    "duration": 132,
+    "year": 2023,
+    "features": ["3D", "Subtitles"],
+    "description": "A young knight discovers that the castle itself is alive."
+  },
+  {
+    "id": 5,
+    "title": "Detective Midnight",
+    "genre": "Thriller",
+    "rating": "PG-13",
+    "duration": 115,
+    "year": 2019,
+    "features": ["Audio Description"],
+    "description": "A detective has one night to solve a city-wide mystery."
+  },
+  {
+    "id": 6,
+    "title": "Pizza Planet Panic",
+    "genre": "Comedy",
+    "rating": "PG",
+    "duration": 91,
+    "year": 2024,
+    "features": ["Family Friendly", "Subtitles"],
+    "description": "A pizza delivery driver accidentally becomes a superhero."
+  }
+]
